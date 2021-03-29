@@ -1,5 +1,6 @@
 ### Hi there I'm Jeawoo👋
 
+- 저는 데이터분석을 공부하고 있는 예비 데이터 사이언스 & 분석가 입니다.
 <!--
 **ZeusKwon/ZeusKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
