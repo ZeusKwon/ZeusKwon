@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3726AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ### Hi there I'm Jeawoo👋
 Good day!
