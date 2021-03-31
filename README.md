@@ -1,6 +1,14 @@
 ### Hi there I'm Jeawoo👋
+Good day!
 
-- 저는 데이터분석을 공부하고 있는 예비 데이터 사이언스 & 분석가 입니다.
+-------------
+
+I major in data analysis and teach coding and data science to students from South Korea.
+My main programming language is *Python* and my secondary language is *R*
+I am isterested in data science and machine learning and computer vision.
+I like exercising and communicating!
+
+If you want to contact me, please leave me a message :fire:
 <!--
 **ZeusKwon/ZeusKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
