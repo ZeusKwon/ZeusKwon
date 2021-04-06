@@ -23,7 +23,7 @@ If you want to contact me, please leave me a message :fire:
 저의 취미는 운동, 여행과 소통입니다.
 감사합니다~
 
-언제나 연락을 기다리고 있습니다.
+언제나 연락을 기다리고 있습니다
 <!--
 **ZeusKwon/ZeusKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
