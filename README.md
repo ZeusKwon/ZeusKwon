@@ -8,7 +8,7 @@ Good day!
 -------------
 
 I major in data analysis and teach coding and data science to students in South Korea.
-My main programming language is **Python** and my secondary language is **R**.
+My main programming language is **Python** and my secondary languages are **R**, **SQL**.
 I am isterested in data science and machine learning and computer vision.
 My hobbyes are exercising, traveling and communicating.
 
