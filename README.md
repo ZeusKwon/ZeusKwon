@@ -31,7 +31,7 @@ If you want to contact me, please leave me a message :fire:
 좋아하는 분야에 대한 데이터 사이언스를 하면, 훨씬 즐겁고 보람 있게 공부할 수 있을 것이라고 생각합니다. 그리고 어쩌면 남들이 보지 못하는 것을 찾게 될 수도 있겠죠!
 항상 나 자신을 응원하며 호기롭게 살아가고 있습니다.
 
-언제나 연락을 기다리고 있습니다
+언제나 연락을 기다리고 있습니다. 감사합니다.
 <!--
 **ZeusKwon/ZeusKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
