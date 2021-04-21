@@ -5,7 +5,7 @@
 ## Hi there I'm Jeawoo👋
 Good day!!
 
---------------
+-------------------------
 
 I major in data analysis and teach coding and data science to students in South Korea.
 My main programming language is "**Python**" and my secondary languages are "**R**", "**SQL**".
@@ -16,7 +16,7 @@ My hobbyes are exercising, traveling and communicating.
 
 If you want to contact me, please leave me a message :fire:
 
---------------
+----------------------------
 
 안녕하세요 
 저는 한국에서 데이터 분석을 전공하고 학생들에게 코딩을 가르치고 있습니다.
