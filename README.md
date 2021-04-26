@@ -14,7 +14,8 @@ My hobbyes are exercising, traveling and communicating.
 
 
 
-If you want to contact me, please leave me a message :fire:
+If you want to contact me, please leave me a message :fire:  
+Thank you!
 
 ----------------------------
 
