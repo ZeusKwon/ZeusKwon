@@ -33,6 +33,11 @@ Thank you!!!
 항상 나 자신을 응원하며 호기롭게 살아가고 있습니다.
 
 언제나 연락을 기다리고 있습니다. 감사합니다.
+
+## Experiences
+- 데이터정보학(통계학과) 졸업
+- 코드스테이츠 AI부트캠프 21.05.06 ~ 
+
 <!--
 **ZeusKwon/ZeusKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
