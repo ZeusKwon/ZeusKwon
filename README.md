@@ -53,5 +53,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![ZeusKwon github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/ZeusKwon/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
  
