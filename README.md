@@ -33,9 +33,17 @@ Thank you!!
 
 언제나 연락을 기다리고 있습니다. 감사합니다.
 
+## 보유 자격증
+- 정보처리기사
+- 사회조사분석사
+- 컴퓨터활용능력 1급
+
 ## Experiences
 - 데이터정보학(통계학과) 졸업
+- 한국킨더코딩연구소 코딩교육팀장 18.07.29 ~ 21.04.08 퇴사
+- 세실킨더코딩학원 원장 19.04.09 ~ 21.04.08 퇴사
 - 코드스테이츠 AI부트캠프 21.05.06 ~ 
+
 
 <!--
 **ZeusKwon/ZeusKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
