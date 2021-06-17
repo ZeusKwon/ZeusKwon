@@ -2,7 +2,7 @@
 
 # Data Scientist
 ## Hi there I'm Jeawoo👋
-Good day!!
+Good day!!!
 
 -------------------------
 
@@ -14,7 +14,7 @@ My hobbyes are exercising, traveling and communicating.
 
 
 If you want to contact me, please leave me a message. :fire:  
-Thank you!!
+Thank you!
 
 ----------------------------
 
