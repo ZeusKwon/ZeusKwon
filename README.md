@@ -45,7 +45,8 @@ Thank you!!!
 - 세실킨더코딩학원 원장 19.04.09 ~ 21.04.08
 - 코드스테이츠 AI부트캠프 21.05.06 ~ 
 
-
+## Project
+- [게임데이터 분석 / 출시게임 예측](https://zeuskwon-ds.tistory.com/28)
 <!--
 **ZeusKwon/ZeusKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
