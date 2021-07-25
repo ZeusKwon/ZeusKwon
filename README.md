@@ -47,7 +47,7 @@ Thank you!!!
 
 ## Project
 - [(데이콘) ML_Project : 구내식당 요일별 점심, 저녁 식사 식수 인원 예측](https://zeuskwon-ds.tistory.com/40)
-- [게임데이터 분석 / 출시게임 예측](https://zeuskwon-ds.tistory.com/28)
+- [Data_Analsis Project : 게임데이터 분석 / 출시게임 예측](https://zeuskwon-ds.tistory.com/28)
 
 <!--
 **ZeusKwon/ZeusKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
