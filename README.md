@@ -46,7 +46,9 @@ Thank you!!!
 - 코드스테이츠 AI부트캠프 21.05.06 ~ 
 
 ## Project
-- [(데이콘) ML_Project : 구내식당 요일별 점심, 저녁 식사 식수 인원 예측](https://zeuskwon-ds.tistory.com/40)
+- [(데이콘) ML_Project : 구내식당 요일별 점심, 저녁 식사 식수 인원 예측](https://zeuskwon-ds.tistory.com/40)  
+    └── [깃헙 주소_DataAnalysis_Project](https://github.com/ZeusKwon/DataAnalysis_Project)
+
 - [Data_Analsis Project : 게임데이터 분석 / 출시게임 예측](https://zeuskwon-ds.tistory.com/28)
 
 <!--
