@@ -52,6 +52,7 @@ Thank you!!!
 - [Data_Analsis Project : 게임데이터 분석 / 출시게임 예측](https://zeuskwon-ds.tistory.com/28)  
     └── [깃헙 주소_DataAnalysis_Project](https://github.com/ZeusKwon/DataAnalysis_Project)
 
+-  [DL_Project : 성능 100%의 정확도 이미지 분류모델 만들기](https://zeuskwon-ds.tistory.com/49)
 <!--
 **ZeusKwon/ZeusKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
