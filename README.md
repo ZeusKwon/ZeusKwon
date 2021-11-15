@@ -2,7 +2,7 @@
 
 # Deep Learning Engineer
 ## Hi there I'm Jeawoo👋
-Good day!
+Good day!!
 
 -------------------------
 
