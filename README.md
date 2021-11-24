@@ -33,7 +33,7 @@ Thank you!!!
 
 언제나 연락을 기다리고 있습니다. 감사합니다.
 
-## e_mail
+## E_mail
 -> zeuskwons@gmail.com
 
 ## 보유 자격증
