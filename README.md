@@ -2,7 +2,7 @@
 
 # Deep_Learning Engineer/Researcher
 ## Hi there I'm Jeawoo👋
-Good day!
+Good day!!!
 
 -------------------------
 
@@ -54,21 +54,7 @@ Thank you!!!
     └── [깃헙 주소_DataAnalysis_Project](https://github.com/ZeusKwon/DataAnalysis_Project)
 
 -  [DL_Project : 성능 100%의 정확도 이미지 분류모델 만들기](https://zeuskwon-ds.tistory.com/49)
-<!--
-**ZeusKwon/ZeusKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![ZeusKwon GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeusKwon&show_icons=true&theme=radical)
 
