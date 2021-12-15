@@ -46,7 +46,7 @@ Thank you!
 - 이포즌 AI연구소 딥러닝 연구원 21.11.08 ~ 
 
 ## Project
-- [(데이콘) ML_Project : 구내식당 요일별 점심, 저녁 식사 식수 인원 예측](https://zeuskwon-ds.tistory.com/40)  
+- [ML_Project : 구내식당 요일별 점심, 저녁 식사 식수 인원 예측(데이콘)](https://zeuskwon-ds.tistory.com/40)  
 
 - [Data_Analsis Project : 게임데이터 분석 / 출시게임 예측](https://zeuskwon-ds.tistory.com/28)  
 
