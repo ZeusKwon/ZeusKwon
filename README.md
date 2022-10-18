@@ -11,6 +11,3 @@ Good day!
 ## E_mail
 -> zeuskwons@gmail.com
 
-# ![ZeusKwon GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeusKwon&show_icons=true&theme=radical)
-
- 
